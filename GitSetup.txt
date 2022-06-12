@@ -1,0 +1,20 @@
+1. Install git
+2. Open the git bash in any of the directory
+3. mkdir demo1
+4. cd demo1
+5. initialize git repository so that files can be tracked
+6. git init
+7. now create a new file 
+8. touch file1.txt
+9. vi file1.txt
+10. press "i" to go in insert mode
+11. edit ur file
+12. press "esc" key and write ":wq" to save and exit
+13. run "git status" to check the status
+14. file1.txt will be untracked
+15. add file1 to staging area
+16. git add file1.txt or git add *(to add all files)
+17. git commit -m "my first commit"
+18. git config --global user.email "email"
+19. git config --global user.name "name"
+20. done
