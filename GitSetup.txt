@@ -17,4 +17,11 @@
 17. git commit -m "my first commit"
 18. git config --global user.email "email"
 19. git config --global user.name "name"
-20. done
+20. "git log" to see all git logs
+21. "git log --oneline" to see shortcut log
+22. "git show commitId" to see details about particular commit
+23. how to make allias : 
+    git config alias.s status -s
+    here ".s" is the alias name & "status" is the command whose alias we're setting up
+24. "git log --list" to see all the alias
+25. Now "git s" will work same as "git status"
