@@ -23,5 +23,5 @@
 23. how to make allias : 
     git config alias.s status -s
     here ".s" is the alias name & "status" is the command whose alias we're setting up
-24. "git log --list" to see all the alias
+24. "git config --list" to see all the alias
 25. Now "git s" will work same as "git status"
