@@ -26,3 +26,14 @@
 24. "git config --list" to see all the alias
 25. Now "git s" will work same as "git status"
 26. dummy line
+********* Branching *********
+1. see the list of available branches
+   git branch
+2. git branch dev1
+   this will create dev branch from current branch
+3. git checkout dev1
+   this will jump to the dev1 branch
+4. git checkout -b dev2
+   this will create dev2 branch nd jump to it
+5. git branch -d dev1
+   this will delete the dev1 branch
