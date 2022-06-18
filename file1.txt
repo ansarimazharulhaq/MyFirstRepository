@@ -1,7 +1,0 @@
-this
-is 
-the
-first
-demo
-on
-git
